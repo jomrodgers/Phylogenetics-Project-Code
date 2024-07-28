@@ -1,0 +1,466 @@
+#NEXUS
+[written Fri May 29 13:43:49 PDT 2020 by Mesquite  version 3.6 (build 917) at DESKTOP-CMGO6NC/192.168.254.12]
+
+BEGIN TAXA;
+	TITLE Untitled_Block_of_Taxa;
+	DIMENSIONS NTAX=251;
+	TAXLABELS
+		Pakicetus_attocki Pakicetus_inachus Ichthyolestes_pinfoldi Nalacetus_ratimitus Ambulocetus_natans Remingtonocetus_harudiensis Maiacetus_inuus Artiocetus_clavis Rodhocetus_kasrani Georgiacetus_vogtlensis Tupelocetus_palmeri Durodon_atrox Cynthiacetus_peruvianus Basilosaurus_isis Coronodon_havensteini Llanocetus_denticrenatus Mystacodon_selenensis Janjucetus_hunderi Mammalodon_colliveri Morawanocetus_yabukii Salishicetus_meadi Borealodon_osedax Fucaia_goedertorum Fucaia_buelli OCPC_1178 Chonecetus_sookensis Aetiocetus_cotylalveus Aetiocetus_weltoni Aetiocetus_polydentatus Aetiocetus_tomitai Aetiocetus_palmadentis Sitsqwayk_cornishorum Maiabalaena_nesbittae Yamatocetus_canaliculatus Eomysticetus_whitmorei Micromysticetus_rothauseni Waharoa_ruwhenua Tokorahia_kuaeroa Tokarahia_lophocephalus Horopeta_umarere Cophocetus_oregonensis Aglaocetus_patulus Thinocetus_arthritus Diorocetus_hiatus Peripolocetus_vexillifer Morenocetus_parvus Balaena_mysticetus Balaenella_brachyrhynus Balaena_ricei Eubalaena_ianitrix Eubalaena_shinshuensis Eubalaena_japonica Isanacetus_laticephalus Parietobalaena_yamaokai Diorocetus_chichibuensis Tiphyocetus_temblorensis Parietobalaena_palmeri Parietobalaena_campiniana Joumocetus_shimizui Cetotherium_megalophysum Metopocetus_durinasus Cephalotropis_coronatus Caperea_marginata Nannocetus_eremus Herpetocetus_morrowi Herpetocetus_transatlanticus Herpetocetus_bramblei Diorocetus_shobarensis Pelocetus_calvertensis Uranocetus_gramensis Gricetoides_aurorae Eschrichtius_robustus_Plei Eschrichtius_robustus Eschrichtius_cf._E._robustus Norrisanima_miocaena Diunatans_luctoretemergo Parabalaenoptera_baulinensis Balaenoptera_bertae Balaenoptera_acutorostrata Balaenoptera_musculus Balaenoptera_musculus_2 Balaenoptera_omurai Balaenoptera_borealis Megaptera_novaeangliae Balaenoptera_physalus Olympicetus_avitus Ashleycetus_planicapitis Archaeodelphis_patrius Mirocetus_riabinini Xenorophus_sloani Albertocetus_meffordorum Cotylocara_macei Echovenator_sandersi Simocetus_rayi Agorophius_pygmaeus Patriocetus_kazakhstanicus Phoberodon_arctirostris Prosqualodon_davidis Prosqualodon_australis Squalodon_calvertensis Urkudelphis_chawpipacha Aondelphis_talen Otekaikea_huata Otekaikea_marplesi Waipatia_maerewhenua Waipatia_hectori Zarhinocetus_errabundus Allodelphis_pratti Arktocara_yakataga Goedertius_oregonensis Ninjadelphis_ujiharai Ensidelphis_riveroi Huaridelphis_raimondii Furcacetus_flexirostrum Notocetus_vanbenedeni Macrosqualodelphis_ukupachai Dilophodelphis_fordycei Araeodelphis_natator Pomatodelphis_inaequalis Zarhachis_flagellator Platanista_gangetica Inticetus_vertizi Argyrocetus_bakersfieldensis Chilcacetus_cavirhinus Squaloziphius_emlongi Yaquinacetus_meadi Eudelphis_mortezelensis Zygophyseter_varolai Brygmophyseter_shigensis Acrophyseter_deinodon Acrophyseter_robustus Livyatan_melvillei Diaphorocetus_poucheti Orycterocetus_crocodilinus LACM_156632 Aulophyseter_morricei Physeter_macrocephalus Idiophyseter_merriami Aprixokogia_kelloggi Platyscaphokogia_landinii Scaphokogia_cochlearis Scaphokogia_totajpe Koristocetus_pescei Praekogia_cedrosensis Nanokogia_isthmia Kogia_pusilla Kogia_breviceps Kogia_sima Chavinziphius_maxillocristatus Ninoziphius_platyrostris Notoziphius_bruneti Chimuziphius_coloradensis Messapicetus_gregarius Ziphirostrum_marginatum Choneziphius_planirostris Choneziphius_leidyi Globicetus_hiberus Tusciziphius_atlanticus Tusciziphius_crispus Nazcacetus_urbinai Microberardius_africanus Archaeoziphius_microglenoideus Berardius_bairdii Ziphius_cavirostris Izikoziphius_angustus Xhosacetus_hendeysi Pterocetus_benguelae Africanacetus_ceratopsis Mesoplodon_europaeus Mesoplodon_slangkopi Mesoplodon_carlhubbsi Mesoplodon_stejnegeri Mesoplodon_perrini Mesoplodon_peruvianus Delphinodon_dividum Wimahl_chinookensis Rudicetus_squalodontoides Kentriodon_diusinus Kentriodon_schneideri Kentriodon_pernix Kentriodon_obscurus Kentriodon_nakajimai Hadrodelphis_calvertensis Macrokentriodon_morani Liolithax_pappus Lipotes_vexillifer Parapontoporia_sternbergi Tagicetus_joneti Atocetus_nasalis Atocetus_iquensis Lophocetus_repenningi Lophocetus_calvertensis Albireo_whistleri Isthminia_panamensis Brujadelphis_ankylorostris Kwanzacetus_khoisani Inia_geoffrensis Scaldiporia_vandokkumi Pontoporia_blainvillei Pliopontos_littoralis Brachydelphis_mazeasi Brachydelphis_jahuayensis Odobenocetops_peruvianus Odobenocetops_leptodon Haborodelphis_japonicus Denebola_brachycephala Monodon_monoceros Bohaskaia_monodontoides Casatia_thermophila Delphinapterus_leucas Pterophocaena_nishinoi Miophocaena_nishinoi Haborophocoena_toyoshimai Numataphocoena_yamashitai Haborophocoena_minutus Lomacetus_ginsburgi Australithax_intermedia Piscolithax_boreios Salumiphocaena_stocktoni Piscolithax_tedfordi Piscolithax_longirostris Septemtriocetus_bosselaersi Brabocetus_gigaseorum Semirostrum_ceruttii Neophocaena_phocaenoides Phocoena_sinus Phocoena_spinipinnis Phocoena_dioptrica Phocoena_phocoena Leucopleurus_acutus Orcinus_orca Hemisyntrachelus_cortesii Eodelphinus_kabatensis Lagenorhynchus_albirostris Lissodelphis_borealis Sagmatias_obliquidens Steno_bredanensis Grampus_griseus Pseudorca_crassidens Feresa_attenuata Peponocephala_electra Protoglobicephala_mexicana Globicephala_macrorhynchus Sotalia_fluviatilis Sousa_chinensis Etruridelphis_giulii Stenella_attenuata Tursiops_truncatus Stenella_coeruleoalba Delphinus_delphis Stenella_longirostris 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title 'Trees from "cetacean_tree.nex"';
+	ID 0172610ac0a71;
+	LINK Taxa = Untitled_Block_of_Taxa;
+	TRANSLATE
+[0] 		1 Pakicetus_attocki,
+[1] 		2 Pakicetus_inachus,
+[2] 		3 Ichthyolestes_pinfoldi,
+[3] 		4 Nalacetus_ratimitus,
+[4] 		5 Ambulocetus_natans,
+[5] 		6 Remingtonocetus_harudiensis,
+[6] 		7 Maiacetus_inuus,
+[7] 		8 Artiocetus_clavis,
+[8] 		9 Rodhocetus_kasrani,
+[9] 		10 Georgiacetus_vogtlensis,
+[10] 		11 Tupelocetus_palmeri,
+[11] 		12 Durodon_atrox,
+[12] 		13 Cynthiacetus_peruvianus,
+[13] 		14 Basilosaurus_isis,
+[14] 		15 Coronodon_havensteini,
+[15] 		16 Llanocetus_denticrenatus,
+[16] 		17 Mystacodon_selenensis,
+[17] 		18 Janjucetus_hunderi,
+[18] 		19 Mammalodon_colliveri,
+[19] 		20 Morawanocetus_yabukii,
+[20] 		21 Salishicetus_meadi,
+[21] 		22 Borealodon_osedax,
+[22] 		23 Fucaia_goedertorum,
+[23] 		24 Fucaia_buelli,
+[24] 		25 OCPC_1178,
+[25] 		26 Chonecetus_sookensis,
+[26] 		27 Aetiocetus_cotylalveus,
+[27] 		28 Aetiocetus_weltoni,
+[28] 		29 Aetiocetus_polydentatus,
+[29] 		30 Aetiocetus_tomitai,
+[30] 		31 Aetiocetus_palmadentis,
+[31] 		32 Sitsqwayk_cornishorum,
+[32] 		33 Maiabalaena_nesbittae,
+[33] 		34 Yamatocetus_canaliculatus,
+[34] 		35 Eomysticetus_whitmorei,
+[35] 		36 Micromysticetus_rothauseni,
+[36] 		37 Waharoa_ruwhenua,
+[37] 		38 Tokorahia_kuaeroa,
+[38] 		39 Tokarahia_lophocephalus,
+[39] 		40 Horopeta_umarere,
+[40] 		41 Cophocetus_oregonensis,
+[41] 		42 Aglaocetus_patulus,
+[42] 		43 Thinocetus_arthritus,
+[43] 		44 Diorocetus_hiatus,
+[44] 		45 Peripolocetus_vexillifer,
+[45] 		46 Morenocetus_parvus,
+[46] 		47 Balaena_mysticetus,
+[47] 		48 Balaenella_brachyrhynus,
+[48] 		49 Balaena_ricei,
+[49] 		50 Eubalaena_ianitrix,
+[50] 		51 Eubalaena_shinshuensis,
+[51] 		52 Eubalaena_japonica,
+[52] 		53 Isanacetus_laticephalus,
+[53] 		54 Parietobalaena_yamaokai,
+[54] 		55 Diorocetus_chichibuensis,
+[55] 		56 Tiphyocetus_temblorensis,
+[56] 		57 Parietobalaena_palmeri,
+[57] 		58 Parietobalaena_campiniana,
+[58] 		59 Joumocetus_shimizui,
+[59] 		60 Cetotherium_megalophysum,
+[60] 		61 Metopocetus_durinasus,
+[61] 		62 Cephalotropis_coronatus,
+[62] 		63 Caperea_marginata,
+[63] 		64 Nannocetus_eremus,
+[64] 		65 Herpetocetus_morrowi,
+[65] 		66 Herpetocetus_transatlanticus,
+[66] 		67 Herpetocetus_bramblei,
+[67] 		68 Diorocetus_shobarensis,
+[68] 		69 Pelocetus_calvertensis,
+[69] 		70 Uranocetus_gramensis,
+[70] 		71 Gricetoides_aurorae,
+[71] 		72 Eschrichtius_robustus_Plei,
+[72] 		73 Eschrichtius_robustus,
+[73] 		74 Eschrichtius_cf._E._robustus,
+[74] 		75 Norrisanima_miocaena,
+[75] 		76 Diunatans_luctoretemergo,
+[76] 		77 Parabalaenoptera_baulinensis,
+[77] 		78 Balaenoptera_bertae,
+[78] 		79 Balaenoptera_acutorostrata,
+[79] 		80 Balaenoptera_musculus,
+[80] 		81 Balaenoptera_musculus_2,
+[81] 		82 Balaenoptera_omurai,
+[82] 		83 Balaenoptera_borealis,
+[83] 		84 Megaptera_novaeangliae,
+[84] 		85 Balaenoptera_physalus,
+[85] 		86 Olympicetus_avitus,
+[86] 		87 Ashleycetus_planicapitis,
+[87] 		88 Archaeodelphis_patrius,
+[88] 		89 Mirocetus_riabinini,
+[89] 		90 Xenorophus_sloani,
+[90] 		91 Albertocetus_meffordorum,
+[91] 		92 Cotylocara_macei,
+[92] 		93 Echovenator_sandersi,
+[93] 		94 Simocetus_rayi,
+[94] 		95 Agorophius_pygmaeus,
+[95] 		96 Patriocetus_kazakhstanicus,
+[96] 		97 Phoberodon_arctirostris,
+[97] 		98 Prosqualodon_davidis,
+[98] 		99 Prosqualodon_australis,
+[99] 		100 Squalodon_calvertensis,
+[100] 		101 Urkudelphis_chawpipacha,
+[101] 		102 Aondelphis_talen,
+[102] 		103 Otekaikea_huata,
+[103] 		104 Otekaikea_marplesi,
+[104] 		105 Waipatia_maerewhenua,
+[105] 		106 Waipatia_hectori,
+[106] 		107 Zarhinocetus_errabundus,
+[107] 		108 Allodelphis_pratti,
+[108] 		109 Arktocara_yakataga,
+[109] 		110 Goedertius_oregonensis,
+[110] 		111 Ninjadelphis_ujiharai,
+[111] 		112 Ensidelphis_riveroi,
+[112] 		113 Huaridelphis_raimondii,
+[113] 		114 Furcacetus_flexirostrum,
+[114] 		115 Notocetus_vanbenedeni,
+[115] 		116 Macrosqualodelphis_ukupachai,
+[116] 		117 Dilophodelphis_fordycei,
+[117] 		118 Araeodelphis_natator,
+[118] 		119 Pomatodelphis_inaequalis,
+[119] 		120 Zarhachis_flagellator,
+[120] 		121 Platanista_gangetica,
+[121] 		122 Inticetus_vertizi,
+[122] 		123 Argyrocetus_bakersfieldensis,
+[123] 		124 Chilcacetus_cavirhinus,
+[124] 		125 Squaloziphius_emlongi,
+[125] 		126 Yaquinacetus_meadi,
+[126] 		127 Eudelphis_mortezelensis,
+[127] 		128 Zygophyseter_varolai,
+[128] 		129 Brygmophyseter_shigensis,
+[129] 		130 Acrophyseter_deinodon,
+[130] 		131 Acrophyseter_robustus,
+[131] 		132 Livyatan_melvillei,
+[132] 		133 Diaphorocetus_poucheti,
+[133] 		134 Orycterocetus_crocodilinus,
+[134] 		135 LACM_156632,
+[135] 		136 Aulophyseter_morricei,
+[136] 		137 Physeter_macrocephalus,
+[137] 		138 Idiophyseter_merriami,
+[138] 		139 Aprixokogia_kelloggi,
+[139] 		140 Platyscaphokogia_landinii,
+[140] 		141 Scaphokogia_cochlearis,
+[141] 		142 Scaphokogia_totajpe,
+[142] 		143 Koristocetus_pescei,
+[143] 		144 Praekogia_cedrosensis,
+[144] 		145 Nanokogia_isthmia,
+[145] 		146 Kogia_pusilla,
+[146] 		147 Kogia_breviceps,
+[147] 		148 Kogia_sima,
+[148] 		149 Chavinziphius_maxillocristatus,
+[149] 		150 Ninoziphius_platyrostris,
+[150] 		151 Notoziphius_bruneti,
+[151] 		152 Chimuziphius_coloradensis,
+[152] 		153 Messapicetus_gregarius,
+[153] 		154 Ziphirostrum_marginatum,
+[154] 		155 Choneziphius_planirostris,
+[155] 		156 Choneziphius_leidyi,
+[156] 		157 Globicetus_hiberus,
+[157] 		158 Tusciziphius_atlanticus,
+[158] 		159 Tusciziphius_crispus,
+[159] 		160 Nazcacetus_urbinai,
+[160] 		161 Microberardius_africanus,
+[161] 		162 Archaeoziphius_microglenoideus,
+[162] 		163 Berardius_bairdii,
+[163] 		164 Ziphius_cavirostris,
+[164] 		165 Izikoziphius_angustus,
+[165] 		166 Xhosacetus_hendeysi,
+[166] 		167 Pterocetus_benguelae,
+[167] 		168 Africanacetus_ceratopsis,
+[168] 		169 Mesoplodon_europaeus,
+[169] 		170 Mesoplodon_slangkopi,
+[170] 		171 Mesoplodon_carlhubbsi,
+[171] 		172 Mesoplodon_stejnegeri,
+[172] 		173 Mesoplodon_perrini,
+[173] 		174 Mesoplodon_peruvianus,
+[174] 		175 Delphinodon_dividum,
+[175] 		176 Wimahl_chinookensis,
+[176] 		177 Rudicetus_squalodontoides,
+[177] 		178 Kentriodon_diusinus,
+[178] 		179 Kentriodon_schneideri,
+[179] 		180 Kentriodon_pernix,
+[180] 		181 Kentriodon_obscurus,
+[181] 		182 Kentriodon_nakajimai,
+[182] 		183 Hadrodelphis_calvertensis,
+[183] 		184 Macrokentriodon_morani,
+[184] 		185 Liolithax_pappus,
+[185] 		186 Lipotes_vexillifer,
+[186] 		187 Parapontoporia_sternbergi,
+[187] 		188 Tagicetus_joneti,
+[188] 		189 Atocetus_nasalis,
+[189] 		190 Atocetus_iquensis,
+[190] 		191 Lophocetus_repenningi,
+[191] 		192 Lophocetus_calvertensis,
+[192] 		193 Albireo_whistleri,
+[193] 		194 Isthminia_panamensis,
+[194] 		195 Brujadelphis_ankylorostris,
+[195] 		196 Kwanzacetus_khoisani,
+[196] 		197 Inia_geoffrensis,
+[197] 		198 Scaldiporia_vandokkumi,
+[198] 		199 Pontoporia_blainvillei,
+[199] 		200 Pliopontos_littoralis,
+[200] 		201 Brachydelphis_mazeasi,
+[201] 		202 Brachydelphis_jahuayensis,
+[202] 		203 Odobenocetops_peruvianus,
+[203] 		204 Odobenocetops_leptodon,
+[204] 		205 Haborodelphis_japonicus,
+[205] 		206 Denebola_brachycephala,
+[206] 		207 Monodon_monoceros,
+[207] 		208 Bohaskaia_monodontoides,
+[208] 		209 Casatia_thermophila,
+[209] 		210 Delphinapterus_leucas,
+[210] 		211 Pterophocaena_nishinoi,
+[211] 		212 Miophocaena_nishinoi,
+[212] 		213 Haborophocoena_toyoshimai,
+[213] 		214 Numataphocoena_yamashitai,
+[214] 		215 Haborophocoena_minutus,
+[215] 		216 Lomacetus_ginsburgi,
+[216] 		217 Australithax_intermedia,
+[217] 		218 Piscolithax_boreios,
+[218] 		219 Salumiphocaena_stocktoni,
+[219] 		220 Piscolithax_tedfordi,
+[220] 		221 Piscolithax_longirostris,
+[221] 		222 Septemtriocetus_bosselaersi,
+[222] 		223 Brabocetus_gigaseorum,
+[223] 		224 Semirostrum_ceruttii,
+[224] 		225 Neophocaena_phocaenoides,
+[225] 		226 Phocoena_sinus,
+[226] 		227 Phocoena_spinipinnis,
+[227] 		228 Phocoena_dioptrica,
+[228] 		229 Phocoena_phocoena,
+[229] 		230 Leucopleurus_acutus,
+[230] 		231 Orcinus_orca,
+[231] 		232 Hemisyntrachelus_cortesii,
+[232] 		233 Eodelphinus_kabatensis,
+[233] 		234 Lagenorhynchus_albirostris,
+[234] 		235 Lissodelphis_borealis,
+[235] 		236 Sagmatias_obliquidens,
+[236] 		237 Steno_bredanensis,
+[237] 		238 Grampus_griseus,
+[238] 		239 Pseudorca_crassidens,
+[239] 		240 Feresa_attenuata,
+[240] 		241 Peponocephala_electra,
+[241] 		242 Protoglobicephala_mexicana,
+[242] 		243 Globicephala_macrorhynchus,
+[243] 		244 Sotalia_fluviatilis,
+[244] 		245 Sousa_chinensis,
+[245] 		246 Etruridelphis_giulii,
+[246] 		247 Stenella_attenuata,
+[247] 		248 Tursiops_truncatus,
+[248] 		249 Stenella_coeruleoalba,
+[249] 		250 Delphinus_delphis,
+[250] 		251 Stenella_longirostris;
+	TREE 'Edited, based on Untitled Tree+' = ((1,2,3,4),(5,(6,((7,8),(9,((10,11),(12,(13,(14,((15,(16,(17,((18,19),(20,((21,22,((24,23),(25,(26,((27,28,29),(30,31)))))),((32,33),((34,(35,(36,(37,(39,38))))),(40,(((41,(42,(43,44))),(45,(46,((47,(48,49)),(50,(51,52)))))),((53,((54,55),((56,57),58))),((59,(60,((61,62),(63,(64,(65,(66,67))))))),(68,(69,(70,((71,(72,(73,74))),(75,(76,(77,(78,(79,((80,81),(82,(83,(84,85))))))))))))))))))))))))),(86,(87,(88,89,(90,(91,(92,93))))),(94,(95,(96,(97,(98,(99,(100,((((101,102),((103,104),(105,106))),((107,((108,109),(110,111))),(112,(((((113,114),115),116),117),(118,((119,120),121)))))),(122,((123,124),((125,126),((127,(((128,129),(130,131)),(132,(133,(134,((135,(136,137,138)),(139,((140,(141,142)),(143,(144,145,(146,(147,148)))))))))))),((149,(150,(((151,152),(153,(154,((155,156),(157,(158,159)))))),(160,((161,(162,163)),((164,165),(166,(167,(168,(169,(170,(171,(172,(173,174)))))))))))))),(175,((176,(177,(178,(179,(180,(181,182)))))),((183,184),((185,(186,187)),((188,((189,190),(191,192))),(193,((((194,195),(196,197)),(198,(199,(200,(201,202))))),(((203,204),(205,(206,((207,208),(209,210))))),((211,((212,(213,(214,215))),((216,217),(218,(219,220,221,(222,223,224),((225,(226,227)),(228,229))))))),(230,((231,232,233),(234,((235,236),((237,(238,(239,((240,241),(242,243))))),(244,(245,(246,((247,248),(249,(250,251))))))))))))))))))))))))))))))))))))))))))));
+
+END;
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1590785029195;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 5014555462274356127;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 263;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1368 793;
+			setLocation -8 0;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #5014555462274356127 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #5014555462274356127;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1105 721;
+					setLocation -8 0;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.lists.TaxonList.TaxonListWindow.ibeam;
+					endTell;
+					setActive;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #5014555462274356127  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 0172610ac0a71;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 1103.1590766003199.6277109858458370439;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1105 721;
+					setLocation -8 0;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.trees.BasicTreeWindowMaker.BasicTreeWindow.scissors;
+					endTell;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle off;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientUp;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					setSelectedTaxonHighlightMode 1;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						setTaxonNameStyler  #mesquite.trees.NoColorForTaxon.NoColorForTaxon;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setTree '(1,2,3,4,(5,(6,((7,8),(9,((10,11),(12,(13,(14,((15,(16,(17,((18,19),(20,((21,22,((24,23),(25,(26,((27,28,29),(30,31)))))),((32,33),((34,(35,(36,(37,(39,38))))),(40,(((41,(42,(43,44))),(45,(46,((47,(48,49)),(50,(51,52)))))),((53,((54,55),((56,57),58))),((59,(60,((61,62),(63,(64,(65,(66,67))))))),(68,(69,(70,((71,(72,(73,74))),(75,(76,(77,(78,(79,(80,(82,(83,(84,85))))))))))))))))))))))))),(86,(87,(88,89,(90,(91,(92,93))))),(94,(95,(96,(97,(98,(99,(100,((((101,102),((103,104),(105,106))),((107,((108,109),(110,111))),(112,(((((113,114),115),116),117),(118,((119,120),121)))))),(122,((123,124),((125,126),((127,(((128,129),(130,131)),(132,(133,(134,((135,(136,137,138)),(139,((140,(141,142)),(143,(144,145,(146,(147,148)))))))))))),((149,(150,(((151,152),(153,(154,((155,156),(157,(158,159)))))),(160,((161,(162,163)),((164,165),(166,(167,(168,(169,(170,(171,(172,(173,174)))))))))))))),(175,((176,(177,(178,(179,(180,(181,182)))))),((183,184),((185,(186,187)),((188,((189,190),(191,192))),(193,((((194,195),(196,197)),(198,(199,(200,(201,202))))),(((203,204),(205,(206,((207,208),(209,210))))),((211,((212,(213,(214,215))),((216,217),(218,(219,220,221,(222,223,224),((225,(226,227)),(228,229))))))),(230,((231,232,233),(234,((235,236),((237,(238,(239,((240,241),(242,243))))),(244,(245,(246,((247,248),(249,(250,251))))))))))))))))))))))))))))))))))))))))))));';
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
+

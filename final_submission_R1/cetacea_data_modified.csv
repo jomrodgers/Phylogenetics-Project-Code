@@ -1,0 +1,248 @@
+Taxon,Skull width (cm),N,FAD,LAD,Specimen,Source
+Nalacetus_ratimitus,12.6,1,47.8,41.2,H-GSP 96386,"Nummela et al., 2006:table 1; Gingerich, 2003"
+Ambulocetus_natans,25.9,1,47.8,41.2,H-GSP 18507,"Nummela et al., 2006:table 1"
+Remingtonocetus_harudiensis,22.8,1,47.8,41.2,IITR-SB 2770,"Bajpai et al., 2011:table 1"
+Maiacetus_inuus,27,1,47.8,41.2,GSP-UM3475a,"Gingerich et al., 2009:table 1; body size from p. 3"
+Artiocetus_clavis,44,1,47.8,41.2,GSP-UM 3458,"Gingerich et al., 2009:table 1"
+Rodhocetus_kasrani,26,1,47.8,41.2,GSP-UM 3012,"Gingerich et al., 1994:table 1; body size from fig. 1"
+Georgiacetus_vogtlensis,31,1,47.8,41.2,GSM 350,"Hulbert et al., 1998:table 4"
+Tupelocetus_palmeri,39.5,1,41.2,37.8,ChM PV6950,"Gibson et al., 2019:table 1"
+Durodon_atrox,50,1,37.8,33.9,CGM 42183,"Uhen, 2004:p.124, appendix IVB"
+Cynthiacetus_peruvianus,47.8,1,37.8,33.9,MNHN.F.PRU10,"Martínez-Cáceres et al., 2017:table3; full body length estimated at 9m, op. cit.:p.18"
+Basilosaurus_isis,60,1,37.8,33.9,CGM,"Gingerich et al., 1990"
+Coronodon_havensteini,46.3,1,33.9,27.82,CCMNH-108,"Geisler et al., 2017:table S1"
+Llanocetus_denticrenatus,88.6,1,37.8,33.9,USNM 183022,Measured from Fordyce and Marx 2018 supp.
+Mystacodon_selenensis,40,1,37.8,33.9,MUSM 1917,"Lambert et al. 2017b, p. 1536"
+Janjucetus_hunderi,31.2,1,27.82,23.03,NMV P216929,"Fitzgerald, 2006:supp."
+Mammalodon_colliveri,26.8,1,27.82,23.03,NMV P199986,"Fitzgerald, 2010:table 4"
+Morawanocetus_yabukii,29,1,27.82,23.03,AMP 1,"Barnes et al., 1995:table 1"
+Salishicetus_meadi,32.6,1,27.82,23.03,UWBM 50004,"Peredo and Pyenson, 2018:p.17"
+Borealodon_osedax,18.6,1,33.9,27.82,USNM 539939,"estimate based on postorbital width, Shipps et al., 2019:fig. 1"
+Fucaia_buelli,21,1,33.9,27.82,UWBM 84024,"Marx et al., 2016:p.30"
+Fucaia_goedertorum,22.6,2,27.82,23.03,LACM 131146 LACM 138027,"Barnes et al., 1995:table 1 Barnes et al., 1995:table 1"
+OCPC_1178,23.5,1,23.03,20.44,OCPC 1178,measured by JVJ
+Chonecetus_sookensis,18.8,1,27.82,23.03,NMCVP 64443,"Barnes et al., 1995:table 1"
+Aetiocetus_cotylalveus,29,1,27.82,23.03,USNM 25210,"Barnes et al., 1995:table 1"
+Aetiocetus_weltoni,29.2,1,27.82,23.03,UCMP 122900,"Barnes et al., 1995:table 1"
+Aetiocetus_polydentatus,27.2,1,27.82,23.03,AMP 12,"Barnes et al., 1995:table 1"
+Aetiocetus_tomitai,24,1,27.82,23.03,AMP 2,"Barnes et al., 1995:table 1"
+Aetiocetus_palmadentis,65,1,27.82,23.03,MUEcSj5/24/123,"Solis-Añorve et al., 2019:table 1"
+Sitsqwayk_cornishorum,69,1,27.82,23.03,UWBM 82916,"Peredo et al., 2016:table 1"
+Maiabalaena_nesbittae,51.9,1,33.9,27.82,USNM 314627,"Peredo et al., 2018:table S1"
+Yamatocetus_canaliculatus,46,1,27.82,23.03,KMNH VP000017,"Okazaki 2012:135, table 2"
+Eomysticetus_whitmorei,48,1,27.82,23.03,ChM PV4253,Sanders and Barnes (2002)
+Micromysticetus_rothauseni,39.8,1,33.9,27.82,ChM PV4844,"Sanders and Barnes, 2002:table 2"
+Waharoa_ruwhenua,32.4,1,27.82,23.03,OU 22163,"Boessenecker and Fordyce, 2015a:table 1"
+Tokarahia_lophocephalus,69,1,27.82,23.03,OM GL 412,"Marples, 1956:table 1"
+Tokorahia_kuaeroa,50,1,27.82,23.03,OU 22235,"Boessenecker and Fordyce, 2015b:table 2"
+Horopeta_umarere,73,1,27.82,23.03,OU 21982,"Tsai and Fordyce, 2015:p. 538"
+Cophocetus_oregonensis,62.5,1,20.44,15.97,UO 305,Parkard & Kellogg (1934):35
+Aglaocetus_patulus,76,1,15.97,13.82,USNM 23690,Kellogg 1969:168
+Thinocetus_arthritus,67,1,13.82,11.63,USNM 23794,"Kellogg (1969):4, table 1"
+Diorocetus_hiatus,61,1,15.97,13.82,USNM 16783,Kellogg (1965)
+Peripolocetus_vexillifer,68.5,1,15.97,13.82,CAS 905.22,Kellogg (1931)
+Morenocetus_parvus,57,1,23.03,15.97,MLP 5-11,"Buono et al., 2017:table 2"
+Balaena_mysticetus,147,1,0,0,LACM 54479,Measured by NDP and J. A. Goldbogen
+Balaenella_brachyrhynus,80,1,5.333,3.6,NMB 42001,"Bisconti (2005):798, table 1"
+Balaena_ricei,126,1,5.333,3.6,USNM 22553,Westgate and Whitmore (2002):fig. 3
+Eubalaena_ianitrix,166,1,3.6,2.58,M 879,Bisconti et al. (2017):table 2
+Eubalaena_shinshuensis,142,1,7.246,5.333,SFMCV-0024,Kimura et al. (2009)
+Eubalaena_japonica,299,1,0,0,USNM 339990,Measured by NDP and J. A. Goldbogen
+Isanacetus_laticephalus,49.4,1,20.44,15.97,MFM 28501,Kimura and Ozawa (2002):685
+Parietobalaena_yamaokai,34.5,1,20.44,13.82,HMN-F00022,"Otsuka and Ota 2008:25, fig. 13"
+Diorocetus_chichibuensis,42.8,1,20.44,13.82,SMNH-VeF68,"Yoshida et al. (2003):3, fig. 2"
+Tiphyocetus_temblorensis,47.8,1,15.97,13.82,CAS 905.01,Kellogg (1931)
+Parietobalaena_palmeri,49.6,1,20.44,13.82,USNM 16119,Kellogg (1968):183
+Parietobalaena_campiniana,43.5,1,15.97,11.63,RBINS M.399-R.4018,Bisconti et al. (2013): Table S4
+Joumocetus_shimizui,41.4,1,11.63,7.246,GMNH-PV-2401,Kimura and Hasegawa (2010):figure 1
+Cetotherium_megalophysum,51.5,1,11.63,7.246,USNM 10593,Cope (1895):147; age from Marx and Fordyce (2015)
+Metopocetus_durinasus,40.6,1,11.63,7.246,USNM 8518,Case (1904):38
+Cephalotropis_coronatus,44.4,1,11.63,7.246,USNM 9352,Cope (1895):147; age from Marx and Fordyce (2015)
+Caperea_marginata,84,1,0,0,ZM 40626,"Bisconti, 2012:table 1"
+Nannocetus_eremus,24.6,1,11.63,5.333,UCMP 26502,Kellogg (1929)
+Herpetocetus_morrowi,35.6,1,3.6,2.58,UCMP 129450,El Adli et al. (2014)
+Herpetocetus_transatlanticus,45.3,1,5.333,3.6,USNM 182962,"Whitmore and Barnes (2008):180, table 1"
+Herpetocetus_bramblei,39.5,1,7.246,3.6,"UCMP 82465,","Whitmore and Barnes (2008):180, table 1"
+Diorocetus_shobarensis,50,1,20.44,13.82,HMN F00005–00009 a,"Otsuka and Ota (2008):15, fig. 8"
+Pelocetus_calvertensis,94.5,1,15.97,13.82,USNM 11976,Kellogg (1965):11
+Uranocetus_gramensis,96.2,1,11.63,7.246,MSM p 813.,Calculated from imagery in Steeman 2009:fig. 3 as 48.1 cm for half bizygomatic width
+Gricetoides_aurorae,98,1,5.333,3.6,USNM 182921,Whitmore and Kaltenbach (2008)
+Eschrichtius_robustus_Plei,90.2,1,0.126,0.0117,GMNH 27372,"LACM 84190 has 9.32 m TL and 90.2 cm bizgyomatic, approximate size of GMNH 27372, reconstructed by Noakes et al. (2014):505-506"
+Eschrichtius_robustus,126,1,0,0,USNM 364969,Measured by NDP and J. A. Goldbogen
+Eschrichtius_cf._E._robustus,101.6,1,0.781,0.126,LACM 122322,Measured by NDP
+Norrisanima_miocaena,121.6,1,11.63,7.246,USNM 10300,"Kellogg (1922):17; Leslie et al., 2019"
+Diunatans_luctoretemergo,75,1,5.333,3.6,"NHG 22279,",Bosselaers and Post (2010)
+Parabalaenoptera_baulinensis,98,1,11.63,5.333,CAS 66660,"Zeigler et al. (1997):126, table 2"
+Balaenoptera_bertae,61.4,1,3.6,2.58,UCMP 21907,Bossenecker (2013):838
+Balaenoptera_acutorostrata,115,1,0,0,USNM 504944,Measured by NDP and J. A. Goldbogen
+Balaenoptera_musculus,281,2,0,0,USNM 124326 SBNHM 2447,Measured by NDP and J. A. Goldbogen Measured by NDP and J. A. Goldbogen
+Balaenoptera_omurai,145.5,1,0,0,NSMT-M32505,Measured by NDP and J. A. Goldbogen
+Balaenoptera_borealis,164,1,0,0,USNM 571436,Measured by NDP and J. A. Goldbogen
+Megaptera_novaeangliae,248,1,0,0,USNM 269982,Measured by NDP and J. A. Goldbogen
+Balaenoptera_physalus,237.6,1,0,0,SDSNH uncataloged,Measured by NDP and J. A. Goldbogen
+Olympicetus_avitus,18,1,27.82,23.03,LACM 149156,"Velez-Juarbe, 2017:table 1"
+Ashleycetus_planicapitis,16,1,33.9,23.03,ChM PV6003,"based on maximum supraorbital width, Sanders and Geisler, 2015:table 2"
+Archaeodelphis_patrius,17.9,1,27.82,23.03,MCZ 15749,"Uhen, 2008:table 2"
+Mirocetus_riabinini,33.6,1,33.9,23.03,GRMP 5173,"estimate based on bizygomatic width from Sanders and Geisler, 2015:fig. 6"
+Xenorophus_sloani,18.3,1,33.9,23.03,USNM 11049,"estimate based on supraorbital width, Kellogg, 1923:p.7"
+Albertocetus_meffordorum,18.45,2,27.82,23.03,USNM 525001 CCNHM 303,"Uhen, 2008:table 2 Boessenecker et al., 2017:table 1"
+Cotylocara_macei,26.9,1,27.82,23.03,CCNHM-101,"Geisler et al., 2014:supp."
+Echovenator_sandersi,17.9,1,27.82,23.03,GSM 1098,"Churchill et al., 2016:table S1"
+Simocetus_rayi,23.8,1,33.9,27.82,USNM 256517,"Fordyce, 2002:table 1"
+Agorophius_pygmaeus,29,1,33.9,23.03,ChM-PV4256,"Godfrey et al., 2016:supp. fig. 1"
+Patriocetus_kazakhstanicus,30,1,27.82,23.03,PIN 3067,"Dubrovo and Sanders, 2000:table 1"
+Phoberodon_arctirostris,33.1,1,23.03,15.97,MLP 5-4,"Viglino et al., 2019:p.516"
+Prosqualodon_davidis,33,1,23.03,20.44,UTDG85542-85576,"Flynn, 1947:p.168"
+Prosqualodon_australis,31.7,1,23.03,15.97,MLP 5-9,"Gaetan et al., 2019:table 1"
+Squalodon_calvertensis,29,1,20.44,15.97,USNM 10484,"Kellogg, 1923:p.60"
+Urkudelphis_chawpipacha,17.2,1,27.82,23.03,MO-1,"Tanaka et al., 2017:p.11"
+Aondelphis_talen,21.5,1,20.44,15.97,MPEF-PV 517,"Viglino et al., 2018:p.266"
+Otekaikea_huata,26.5,1,27.82,20.44,OU 22306,"Tanaka and Fordyce, 2015:table 1"
+Otekaikea_marplesi,25.7,1,27.82,23.03,OM GL 421,"Tanaka and Fordyce, 2014:table 1"
+Waipatia_maerewhenua,24.4,1,27.82,23.03,OU 22095,"Fordyce, 1994:table 1"
+Waipatia_hectori,26,1,27.82,23.03,NMNZ Ma 653,"Tanaka and Fordyce, 2015:table 1"
+Zarhinocetus_errabundus,19.7,1,15.97,13.82,LACM 149588,"Barnes and Reynolds, 2009:table 1"
+Allodelphis_pratti,19.3,1,23.03,20.44,YPM 13408,"Barnes and Reynolds, 2009:table 1"
+Arktocara_yakataga,19.1,1,27.82,23.03,USNM 214830,"Boersma and Pyenson, 2016:table 1"
+Goedertius_oregonensis,17.5,1,20.44,15.97,LACM 123887,"Kimura and Barnes, 2016:table 1"
+Ninjadelphis_ujiharai,22.6,1,20.44,15.97,GMNH-PV-2570,"Kimura and Barnes, 2016:table 1"
+Ensidelphis_riveroi,19.6,1,20.44,15.97,MUSM 3898,"Bianucci et al., 2020:table 1"
+Huaridelphis_raimondii,20.7,1,20.44,15.97,MUSM 1396,"Bianucci et al., 2018:table 1"
+Furcacetus_flexirostrum,24.15,2,20.44,15.97,MUSM 487 MUSM 3896,"Bianucci et al., 2020:table 3 Bianucci et al., 2020:table 3"
+Notocetus_vanbenedeni,22.85,2,27.82,20.44,MUSM 1395 MLP 5-5,"based on orbital width from Bianucci et al., 2014:table 1 based on orbital width from Bianucci et al., 2014:table 1"
+Macrosqualodelphis_ukupachai,37,1,20.44,15.97,MUSM 2545,"Bianucci et al., 2018:table 1"
+Dilophodelphis_fordycei,18.8,1,20.44,15.97,USNM 214911,"Boersma et al., 2017:table 1"
+Araeodelphis_natator,17.9,1,20.44,15.97,USNM 526604,"Godfrey et al., 2017:table 1"
+Pomatodelphis_inaequalis,19.9,1,13.82,7.246,MCZ 15750,"Allen, 1921:p.150"
+Zarhachis_flagellator,26.8,1,20.44,13.82,USNM 10485,"Kellogg, 1924:p.20"
+Platanista_gangetica,16.4,1,0,0,USNM A 23456,measured by JVJ
+Inticetus_vertizi,36,1,20.44,15.97,MUSM 1980,"Lambert et al., 2017:p.4"
+Argyrocetus_bakersfieldensis,17.4,1,23.03,20.44,YPM 13406,"Wilson, 1935:p.65"
+Chilcacetus_cavirhinus,25.85,2,20.44,15.97,MNHN.F.PRU11 MUSM 1401,"Lambert et al., 2015:table 1 Lambert et al., 2015:table 1"
+Squaloziphius_emlongi,29.6,1,23.03,20.44,USNM 181528,"Muizon, 1990:p.292"
+Yaquinacetus_meadi,24.1,1,27.82,15.97,USNM 214705,"Lambert et al., 2019:table 1"
+Eudelphis_mortezelensis,59.2,1,20.44,11.63,IRSNB M.523,"Lambert, 2008:p.282"
+Zygophyseter_varolai,74.5,1,11.63,7.246,MAUL 229/1,"Bianucci and Landini, 2006:table 2"
+Brygmophyseter_shigensis,65,1,15.97,13.82,SFM-00001,"Estimated from figure in Kimura et al., 2006"
+Acrophyseter_deinodon,46.6,1,11.63,5.333,MNHN SAS 1626,Lambert et al. 2008:p.363
+Acrophyseter_robustus,38.5,1,13.82,7.246,MUSM 1399,Lambert et al. 2017:table 1
+Livyatan_melvillei,197,1,11.63,7.246,MUSM 1676,"Lambert et al. 2017, p. 451"
+Diaphorocetus_poucheti,52.29,1,23.03,20.44,MLP 5-6,"Paolucci et al., 2020:table 1"
+Orycterocetus_crocodilinus,48.5,1,20.44,11.63,USNM 22926,"Kellogg, 1965:p.57"
+LACM_156632,48.5,1,15.97,13.82,LACM 156632,measured by JVJ
+Aulophyseter_morricei,71.8,1,15.97,13.82,USNM 11230,"Kellogg, 1927:p22"
+Physeter_macrocephalus,170,1,0,0,?,"Lambert et al., 2010: supp. table 7"
+Idiophyseter_merriami,55.5,1,15.97,13.82,UCMP 24287,"Kellogg, 1925:p.29"
+Aprixokogia_kelloggi,22.5,1,5.333,3.6,USNM 187015,measured by JVJ
+Platyscaphokogia_landinii,25.5,1,11.63,5.333,MUSM 3405,"Collareta et al., 2020:table 1"
+Scaphokogia_cochlearis,26.6,2,11.63,5.333,MNHN PPI 229 MUSM 1998,"measured by JVJ, estimated from postorbital width Benites Palomino et al 2020:table 1"
+Scaphokogia_totajpe,24.1,1,7.246,5.333,MUSM 973,Benites Palomino et al 2020:table 2
+Koristocetus_pescei,18.5,1,7.246,5.333,MUSM 888,"based on greatest postorbital width, Collareta et al., 2017:table 1"
+Praekogia_cedrosensis,21.5,1,11.63,5.333,UCMP 315299,measured by JVJ
+Nanokogia_isthmia,22.15,2,11.63,5.333,UF 280000 UF 273554,"Velez-Juarbe et al., 2015:table 1 Velez-Juarbe et al., 2015:table 1"
+Kogia_pusilla,17.8,1,3.6,2.58,IGF1540V,"estimated from postorbital widht from Bianucci and Landini, 1999:fig.1"
+Kogia_breviceps,36.9,1,0,0,UF 17532,measured by JVJ
+Kogia_sima,22,1,0,0,LACM 47142,measured by JVJ
+Chavinziphius_maxillocristatus,36.8,1,7.246,5.333,MUSM 2538,"Bianucci et al., 2016:table 1"
+Ninoziphius_platyrostris,32.3,2,7.246,5.333,MNHN SAS 941 MNHN SAS 1628,"Lambert et al., 2013:table 1 Lambert et al., 2013:table 1"
+Notoziphius_bruneti,33.9,1,11.63,7.246,MPEF-PV 3282,"based on postorbital width from Buono and Cozzuol, 2013:table 1"
+Chimuziphius_coloradensis,24,1,11.63,7.246,MUSM 2548,"based on postorbital width from Bianucci et al., 2016:table 2"
+Messapicetus_gregarius,31.15,2,11.63,7.246,MUSM 1038 MUSM 1481,"Bianucci et al., 2010:table 1 Bianucci et al., 2010:table 1"
+Ziphirostrum_marginatum,33.4,1,11.63,7.246,IRSNB 3845-M.536,"based on supraorbital width from Lambert, 2005:table 1"
+Choneziphius_planirostris,31.6,3,11.63,5.333,IRSNB 3774-M.1881 IRSNB 3768 IRSNB 3773,"based on postorbital width from Lambert, 2005:table 2 based on postorbital width from Lambert, 2005:table 2 based on postorbital width from Lambert, 2005:table 2"
+Choneziphius_leidyi,35.4,1,7.246,3.6,SGHN MA0633,"based on preorbital width from Bianucci et al., 2013:table 1"
+Globicetus_hiberus,37.2,1,7.246,3.6,ML 1361,"based on postorbital width from Bianucci et al., 2013:table 3"
+Tusciziphius_atlanticus,37.2,1,7.246,3.6,NMR 9991-3020,"based on postorbital width from Bianucci et al., 2013:table 2"
+Tusciziphius_crispus,45,1,5.333,3.6,IGF 1594V,"Bianucci, 1997:table 1"
+Nazcacetus_urbinai,22.2,1,7.246,5.333,MUSM 949,"based on postorbital width from Lambert et al., 2009:table 1"
+Microberardius_africanus,25.5,1,15.97,3.6,SAM PQ 3003,"based on preorbital width from Bianucci et al., 2007:table 1"
+Archaeoziphius_microglenoideus,28.6,1,15.97,13.82,IRSNB 3856-M.1853,"Lambert and Louwye, 2006:table 1"
+Berardius_bairdii,73.4,1,0,0,LACM 86033,TL 1010 cm; measured by JVJ
+Ziphius_cavirostris,51.3,1,0,0,LACM 84111,TL 549 cm; measured by JVJ
+Izikoziphius_angustus,39.5,1,15.97,3.6,SAM PQ 3004,"based on postorbital width from Bianucci et al., 2007:table 2"
+Xhosacetus_hendeysi,33,1,15.97,3.6,SAM PQ 2082,"based on preorbital width from Bianucci et al., 2007:table 5"
+Pterocetus_benguelae,36.6,1,15.97,3.6,SAM PQ 2803,"based on preorbital width from Bianucci et al., 2007:table 5"
+Africanacetus_ceratopsis,50,1,15.97,3.6,NMR 9991-00001993,"based on preorbital width from Bianucci et al., 2007:table 4"
+Mesoplodon_europaeus,30.8,1,0,0,LACM 91349,measured by JVJ
+Mesoplodon_slangkopi,22.3,1,15.97,3.6,SAM PQ 2069,"based on postorbital width from Bianucci et al., 2007:table 4"
+Mesoplodon_carlhubbsi,34.7,1,0,0,LACM 72153,measured by JVJ
+Mesoplodon_stejnegeri,30.3,1,0,0,LACM 54591,measured by JVJ
+Mesoplodon_perrini,26.4,1,0,0,LACM 95533,TL 11.9 ft; measured by JVJ
+Mesoplodon_peruvianus,28,1,0,0,MHN 1146,"Reyes et al., 1991:table 2"
+Delphinodon_dividum,16.5,1,15.97,13.82,USNM 7278,Measured by JVJ
+Wimahl_chinookensis,26.2,1,23.03,15.97,UWBM 88078,"Peredo et al., 2018:table 1"
+Rudicetus_squalodontoides,20,1,20.44,5.333,CGCMIT 12,"Bianucci, 2001:table 1"
+Kentriodon_diusinus,15.2,1,15.97,13.82,FCMM 2387,"Salinas-Márquez et al., 2014:table 1"
+Kentriodon_schneideri,17,1,20.44,13.82,USNM 323772,"estimated using supraorbital width, Whitmore and Kaltenbach, 2008:p.199"
+Kentriodon_pernix,14.2,1,20.44,15.97,USNM 10670,"Kellogg, 1927:p.22"
+Kentriodon_obscurus,12.2,1,15.97,13.82,LACM 21256,"measurement based on antorbital width from Barnes and Mitchell, 1984:p.4"
+Kentriodon_nakajimai,18,1,11.63,7.246,GMNH-PV-3245,"measurement based on postorbital width, Kimura and Hasegawa, 2019:table 1"
+Hadrodelphis_calvertensis,25.5,1,15.97,13.82,CMM-V-11,"based on postorbital width from Dawson, 1996:table 1"
+Macrokentriodon_morani,30.8,1,13.82,11.63,CMM-V-15,"estimates from Dawson, 1996:fig.1"
+Liolithax_pappus,25.4,1,15.97,13.82,USNM 15985,"estimated using postorbital width from Kellogg, 1955:.p112"
+Lipotes_vexillifer,19.9,1,0,0,USNM 218293,"Miller, 1918:p.9"
+Parapontoporia_sternbergi,13.85,2,3.6,2.58,LACM LACM,NA NA
+Tagicetus_joneti,16.6,1,13.82,11.63,IRSNB M.1892,"estimated using postorbital width, Lambert et al., 2005:table 1"
+Atocetus_nasalis,14.6,1,11.63,7.246,LACM 30093,"Barnes, 1985:table 1"
+Atocetus_iquensis,15.5,1,11.63,7.246,MNHN PPI 114,"Muizon, 1988:table 10"
+Lophocetus_repenningi,18.2,1,11.63,7.246,USNM 23886,"Barnes, 1978:table 2, estimate based on orbital width"
+Lophocetus_calvertensis,17,1,11.63,7.246,USNM 16314,measured by JVJ
+Albireo_whistleri,22.7,1,11.63,5.333,UCMP 314589,"Barnes, 1984:table 6"
+Isthminia_panamensis,26.2,1,11.63,5.333,USNM 546125,"Pyenson et al., 2015:table 1"
+Brujadelphis_ankylorostris,21,1,11.63,7.246,MUSM 1400,"based on postorbital width, Lambert et al., 2017:table 1"
+Kwanzacetus_khoisani,28.6,1,11.63,5.333,CZA 1-2,"Lambert et al., 2018:table 1"
+Inia_geoffrensis,25.5,1,0,0,LACM 27074,TL 228 cm; measured by JVJ
+Scaldiporia_vandokkumi,14,1,7.246,3.6,NMR 9991-12018,"Post et al., 2017:table 1"
+Pontoporia_blainvillei,11.3,1,0,0,LACM 54009,TL 137 cm; measured by JVJ
+Pliopontos_littoralis,14.33333,3,7.246,5.333,MNHN SAS 931 MNHN SAS 193 MNHN SAS 953,"Muizon, 1984:table 1 Muizon, 1984:table 1 Muizon, 1984:table 1"
+Brachydelphis_mazeasi,15.2,1,11.63,7.246,MUSM 564,"Lambert and Muizon, 2013:table 1"
+Brachydelphis_jahuayensis,14.1,1,11.63,7.246,MUSM 568,"Lambert and Muizon, 2013:table 1"
+Odobenocetops_peruvianus,30.8,1,7.246,5.333,USNM 488252,"Muizon, 2002:table 1"
+Odobenocetops_leptodon,30,1,7.246,5.333,SMNK PAL 2492,"Muizon and Domning, 2002:table 1"
+Haborodelphis_japonicus,21,1,5.333,3.6,SMAC1390,"Ichishima et al., 2018:table 1"
+Denebola_brachycephala,28.8,1,11.63,5.333,UCMP 321245,"Barnes, 1984:table 3"
+Monodon_monoceros,36.7,1,0,0,LACM 72547,TL 377 cm; measured by JVJ
+Bohaskaia_monodontoides,28.2,1,5.333,3.6,USNM 25819,"measured by JVJ, estimated from orbital width"
+Casatia_thermophila,25.5,1,5.333,3.6,MSNUP I-17602,"estimated bizyg from Bianucci et al., 2019:fig.5"
+Delphinapterus_leucas,30,1,0,0,LACM 54571,measured by JVJ
+Pterophocaena_nishinoi,20.8,1,11.63,7.246,NMV-7,"Murakami et al., 2012:table 1"
+Miophocaena_nishinoi,19.6,1,7.246,5.333,NMV-6,"estimated based on orbital width from Murakami et al., 2012:fig. 2"
+Haborophocoena_toyoshimai,19.5,1,5.333,3.6,HMNH 110-1,"Ichishima and Kimura, 2009:table 1"
+Numataphocoena_yamashitai,8.6,1,5.333,3.6,NFL 2074,"based on postorbital width, Tanaka and Ichishima, 2016:table 1"
+Haborophocoena_minutus,15.2,1,5.333,3.6,SMAC 1388,"Ichishima and Kimura, 2009:table 1"
+Lomacetus_ginsburgi,14.6,1,7.246,5.333,MNHN PPI 106,"based on postorbital width, Muizon, 1988:p.49"
+Australithax_intermedia,19,1,11.63,7.246,MNHN PPI 65,"Muizon, 1988:table 6"
+Piscolithax_boreios,20,1,11.63,5.333,UCMP,measured by JVJ
+Salumiphocaena_stocktoni,16.1,1,11.63,5.333,UCMP 34576,"Muizon, 1984:table 9"
+Piscolithax_tedfordi,19,1,11.63,5.333,UCMP,measured by JVJ
+Piscolithax_longirostris,22.15,2,7.246,5.333,MNHN SAS 934 MNHN SAS 933,"Muizon, 1984:table 9 Muizon, 1984:table 9"
+Septemtriocetus_bosselaersi,19,1,3.6,2.58,IRSNB M.1928,"estimated from postorbital width from Lambert, 2008:table 1"
+Brabocetus_gigaseorum,14.8,1,5.333,3.6,IRSNB M. 2171,"estimated from postorbital width from Colpaert et al., 2015"
+Semirostrum_ceruttii,18.4,1,5.333,2.58,SDSNH 65276,"Racicot et al., 2014:supplemental material"
+Neophocaena_phocaenoides,13.2,1,0,0,LACM 54594,measured by JVJ
+Phocoena_sinus,14.7,1,0,0,LACM 28259,TL 150 cm; measured by JVJ
+Phocoena_spinipinnis,15.9,1,0,0,LACM 72442,measured by JVJ
+Phocoena_dioptrica,16.5,1,0,0,LACM 86042,measured by JVJ
+Phocoena_phocoena,15.6,1,0,0,LACM 84286,TL 150 cm; measured by JVJ
+Leucopleurus_acutus,22.5,1,0,0,LACM 84265,TL 243 cm; measured by JVJ
+Orcinus_orca,67.2,1,0,0,LACM 84291,TL 620 cm; measured by JVJ
+Hemisyntrachelus_cortesii,29.5,1,5.333,2.58,MC CF2,"estimated from postorbital width from Bianucci, 1997:table 6"
+Eodelphinus_kabatensis,22.5,1,11.63,7.246,HMH 68037,"Murakami et al., 2014:table 2"
+Lagenorhynchus_albirostris,22,1,0,0,LACM 86021,TL 220 cm; measured by JVJ
+Lissodelphis_borealis,19.7,1,0,0,LACM 54086,measured by JVJ
+Sagmatias_obliquidens,19.7,1,0,0,LACM 98027,measured by JVJ
+Steno_bredanensis,20.7,1,0,0,LACM 72154,TL 212 cm; measured by JVJ
+Grampus_griseus,31.4,1,0,0,LACM 47145,TL 9 feet; measured by JVJ
+Pseudorca_crassidens,36.4,1,0,0,LACM 84047,TL 480 cm; measured by JVJ
+Feresa_attenuata,22.7,1,0,0,LACM 31447,TL 215.9 cm; measured by JVJ
+Peponocephala_electra,25,1,0,0,LACM 54090,measured by JVJ
+Protoglobicephala_mexicana,27,1,3.6,2.58,UABCS/ISJ/3008,"Aguirre et al., 2009:table 3"
+Globicephala_macrorhynchus,45.1,1,0,0,LACM 54185,measured by JVJ
+Sotalia_fluviatilis,14.4,1,0,0,LACM 30790,measured by JVJ
+Sousa_chinensis,21.6,1,0,0,LACM 72168,measured by JVJ
+Etruridelphis_giulii,18,1,5.333,2.58,IGF8736V,"estimated from preorbital width from Bianucci et al., 2009"
+Stenella_attenuata,15.9,1,0,0,LACM 31362,TL 66cm; measured by JVJ
+Tursiops_truncatus,25.8,1,0,0,LACM 95664,TL 260 cm; measured by JVJ
+Stenella_coeruleoalba,21.4,1,0,0,LACM 54953,TL 220 cm; measured by JVJ
+Delphinus_delphis,17.5,1,0,0,LACM 72133,TL 191 cm; measured by JVJ
+Stenella_longirostris,14.6,1,0,0,LACM 27424,measured by JVJ
